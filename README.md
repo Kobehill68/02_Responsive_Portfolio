@@ -1,41 +1,44 @@
 # 02_Responsive_Portfolio
 
-    #The Project Goal
+# The Project Goal
 
-            The goal for this project was to make a Responsive Portfolio page utilizing the Bootstrap CSS Framework so the page would be usable on a variety of decives and screen sizes. The end result or solution was for us to have a index.html page a portfolio.html page and a contact.html page and all three pages had to link to each other, and all three pages had to be repsonsive. I learned from this project that using bootstrap may be fun and easy you are limted to bootstrap and there predefined CSS styles.
+The goal for this project was to make a Responsive Portfolio page utilizing the Bootstrap CSS Framework so the page would be usable on a variety of decives and screen sizes. The end result or solution was for us to have a index.html page a portfolio.html page and a contact.html page and all three pages had to link to each other, and all three pages had to be repsonsive. I learned from this project that using bootstrap may be fun and easy you are limted to bootstrap and there predefined CSS styles.
 
-        ##About Page Goal
+## Link To the Live Webpage
 
-            For this page I wrote a breif but imformative description about my self and put in a portiat of myself. Then I made sure that the page was responsive and that the text would wrap around the image when the screen was smaller. 
 
-        ##Portfolio Page Goal
+## About Page Goal
 
-            In this page you will find the links to my projects and my proffesional socail media. 
+For this page I wrote a breif but imformative description about my self and put in a portiat of myself. Then I made sure that the page was responsive and that the text would wrap around the image when the screen was smaller. 
 
-        ##Contact Page Goal
+## Portfolio Page Goal
 
-            When you vist this page you will find a contact form. This form is not active at this time so it will not go any where.
+In this page you will find the links to my projects and my proffesional socail media. 
 
-    #The Resaon for this Project
+## Contact Page Goal
 
-        The resaon for this project was so that I could have a proffesional and responsive portfolio that I can show to future employers and others people. 
+When you vist this page you will find a contact form. This form is not active at this time so it will not go any where.
 
-    #The Challenges I faced
+## The Resaon for this Project
 
-        * Trying to get a sticky footer placed in.
-        * Trying to space out the protfolio page correctly
+The reason for this project was so that I could have a proffesional and responsive portfolio that I can show to future employers and others people. 
+
+## The Challenges I faced
+
+ * Trying to get a sticky footer placed in.
+* Trying to space out the protfolio page correctly
         
-    #Usage
+## Usage
 
-        The usage for this website is so employers and come to know me better and be adle to see my porfilio. And they will be able to get in contact with me.
+The usage for this website is so employers and come to know me better and be adle to see my porfilio. And they will be able to get in contact with me.
 
 
 
-    #Contributors
-        * Kobe hill
-        * http://html5doctor.com/html-5-reset-stylesheet/
-        * https://getbootstrap.com/
-        * https://www.w3schools.com/ 
-        * https://www.google.com/
+## Contributors
+* Kobe hill
+* http://html5doctor.com/html-5-reset-stylesheet/
+* https://getbootstrap.com/
+* https://www.w3schools.com/ 
+* https://www.google.com/
         
     
