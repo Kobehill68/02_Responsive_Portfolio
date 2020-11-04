@@ -36,6 +36,8 @@ The usage for this website is so employers and come to know me better and be adl
 
 ## Contributors
 * Kobe hill
+
+## Soruces
 * http://html5doctor.com/html-5-reset-stylesheet/
 * https://getbootstrap.com/
 * https://www.w3schools.com/ 
