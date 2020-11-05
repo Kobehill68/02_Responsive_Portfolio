@@ -35,7 +35,7 @@ The reason for this project was so that I could have a proffesional and responsi
         
 ## Usage
 
-The usage for this website is so employers and come to know me better and be adle to see my porfilio. And they will be able to get in contact with me.
+The usage for this website is so employers can come to know me better and be able to see my portfilio. And they will be able to get in contact with me.
 
 
 
