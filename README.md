@@ -5,7 +5,7 @@
 The goal for this project was to make a Responsive Portfolio page utilizing the Bootstrap CSS Framework so the page would be usable on a variety of decives and screen sizes. The end result or solution was for us to have a index.html page a portfolio.html page and a contact.html page and all three pages had to link to each other, and all three pages had to be repsonsive. I learned from this project that using bootstrap may be fun and easy you are limted to bootstrap and there predefined CSS styles.
 
 ## Link To the Live Webpage
-
+ https://kobehill68.github.io/02_Responsive_Portfolio/
 
 ## About Page Goal
 
@@ -17,7 +17,7 @@ In this page you will find the links to my projects and my proffesional socail m
 
 ## Contact Page Goal
 
-When you vist this page you will find a contact form. This form is not active at this time so it will not go any where.
+When you vist the contact page you will see my full name, email address, and my phone number and a message detailing how to get in contact with me and the time I am available.
 
 ## The Resaon for this Project
 
@@ -27,6 +27,11 @@ The reason for this project was so that I could have a proffesional and responsi
 
  * Trying to get a sticky footer placed in.
 * Trying to space out the protfolio page correctly
+
+## Pictures of the live Web Page
+![about me page](./assets/images/aboutme.png)
+![portfolio page](./assets/images/portfolio.png)
+![contact page](./assets/images/contact.png)
         
 ## Usage
 
